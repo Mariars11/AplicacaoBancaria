@@ -1,0 +1,16 @@
+C:\vscodeProj\AppBancario\Aplicacao Bancaria\bin\Debug\net5.0\Aplicacao Bancaria.exe
+C:\vscodeProj\AppBancario\Aplicacao Bancaria\bin\Debug\net5.0\Aplicacao Bancaria.deps.json
+C:\vscodeProj\AppBancario\Aplicacao Bancaria\bin\Debug\net5.0\Aplicacao Bancaria.runtimeconfig.json
+C:\vscodeProj\AppBancario\Aplicacao Bancaria\bin\Debug\net5.0\Aplicacao Bancaria.runtimeconfig.dev.json
+C:\vscodeProj\AppBancario\Aplicacao Bancaria\bin\Debug\net5.0\Aplicacao Bancaria.dll
+C:\vscodeProj\AppBancario\Aplicacao Bancaria\bin\Debug\net5.0\ref\Aplicacao Bancaria.dll
+C:\vscodeProj\AppBancario\Aplicacao Bancaria\bin\Debug\net5.0\Aplicacao Bancaria.pdb
+C:\vscodeProj\AppBancario\Aplicacao Bancaria\obj\Debug\net5.0\Aplicacao Bancaria.csproj.AssemblyReference.cache
+C:\vscodeProj\AppBancario\Aplicacao Bancaria\obj\Debug\net5.0\Aplicacao Bancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\vscodeProj\AppBancario\Aplicacao Bancaria\obj\Debug\net5.0\Aplicacao Bancaria.AssemblyInfoInputs.cache
+C:\vscodeProj\AppBancario\Aplicacao Bancaria\obj\Debug\net5.0\Aplicacao Bancaria.AssemblyInfo.cs
+C:\vscodeProj\AppBancario\Aplicacao Bancaria\obj\Debug\net5.0\Aplicacao Bancaria.csproj.CoreCompileInputs.cache
+C:\vscodeProj\AppBancario\Aplicacao Bancaria\obj\Debug\net5.0\Aplicacao Bancaria.dll
+C:\vscodeProj\AppBancario\Aplicacao Bancaria\obj\Debug\net5.0\ref\Aplicacao Bancaria.dll
+C:\vscodeProj\AppBancario\Aplicacao Bancaria\obj\Debug\net5.0\Aplicacao Bancaria.pdb
+C:\vscodeProj\AppBancario\Aplicacao Bancaria\obj\Debug\net5.0\Aplicacao Bancaria.genruntimeconfig.cache
